@@ -1,0 +1,20 @@
+open anaconda prompt and run the following commands:
+
+To open jupyter notebook:
+(base) C:\Users\91834>conda activate project
+------------------------------------------------------------------
+(project) C:\Users\91834>cd Notebookpath
+-----------------------------------------------------------------
+(project) C:\Users\91834\OneDrive\Desktop\project\Sentiment-Classification-and-Opinion-Mining-on-Airline-Reviews>jupyter notebook
+---------------------------------------------------------------------------------------------------------------------------------------
+To run flask app(app.py_)
+
+(base) C:\Users\91834>conda activate project
+----------------------------------------------------------------------------
+(project) C:\Users\91834>cd Flask app path
+--------------------------------------------------------------------------------
+(project) C:\Users\91834\OneDrive\Desktop\project\Sentiment-Classification-and-Opinion-Mining-on-Airline-Reviews\FlaskApp>python app.py
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Copy and paste the http://127.0.0.1:8000 in the browser
+==================================================================
